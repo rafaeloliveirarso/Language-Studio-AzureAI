@@ -1,4 +1,4 @@
-# Language-Studio-AzureAI
+# Language Studio AzureAI
 Projeto proposto em Bootcamp
 
 ---
